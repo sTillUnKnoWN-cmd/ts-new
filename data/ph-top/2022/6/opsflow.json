@@ -1,0 +1,72 @@
+{
+  "id": "350487",
+  "commentsCount": 10,
+  "createdAt": "2022-06-24T15:04:40.411Z",
+  "description": "It’s like Webflow but for infrastructure. No DevOps knowledge required! Simply connect your AWS account, and OpsFlow automatically configures it for your apps. Frontend, backend, databases, and much more",
+  "featuredAt": "2022-06-24T07:14:27Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/59bac03e-098f-40f4-abd2-e3ac3f2512f0.jpeg?auto=format",
+      "videoUrl": "https://www.youtube.com/watch?v=e5kosNctrAc"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3e0ffa15-5ee0-4b22-942d-7ac14c85e942.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/f69d1113-5ea0-4358-bf3d-08caf26960aa.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0a93e71a-c36d-4aef-838d-d16c2ec759a1.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/8d6d5e83-7e63-4ab9-b97e-0faecf77b4a4.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "OpsFlow",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/e31611929a4c68?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Abhash Kumar",
+    "url": "https://www.producthunt.com/@abhash_kumar2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 0,
+  "reviewsRating": 0,
+  "slug": "opsflow",
+  "tagline": "Build your stack visually, no-code DevOps",
+  "url": "https://www.producthunt.com/posts/opsflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 52,
+  "website": "https://www.producthunt.com/r/e31611929a4c68?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "No-Code"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2022-06-24T07:14:27Z"
+}

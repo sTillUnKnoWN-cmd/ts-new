@@ -1,0 +1,67 @@
+{
+  "id": "350472",
+  "commentsCount": 6,
+  "createdAt": "2022-06-24T15:04:40.411Z",
+  "description": "SparkPlug is the all-in-one sales incentive management platform designed to let frontline workers earn like owners, revolutionizing the labor economics in brick & mortar, from retail to restaurants.",
+  "featuredAt": "2022-06-24T07:01:00Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/787e1f70-02a4-48bc-9035-a75ec41c4f11.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cd647521-eb84-4eae-bf85-f3e791b7f9f8.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0b3990cd-c271-4213-baad-4ef0e01d6751.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/58e74255-7719-4cc8-be4c-d8e0a15f57e9.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "SparkPlug",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/c91c7aa3490e2f?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "jason",
+    "url": "https://www.producthunt.com/@jason?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 0,
+  "reviewsRating": 0,
+  "slug": "sparkplug-2",
+  "tagline": "Sales gamification for people-powered places",
+  "url": "https://www.producthunt.com/posts/sparkplug-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 52,
+  "website": "https://www.producthunt.com/r/c91c7aa3490e2f?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Sales"
+        }
+      },
+      {
+        "node": {
+          "name": "SaaS"
+        }
+      },
+      {
+        "node": {
+          "name": "Human Resources"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2022-06-24T07:01:00Z"
+}
